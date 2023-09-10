@@ -1,14 +1,21 @@
-# ESP (due tomorrow)
-Sa notebook, mag-lista ng mga leaders, at ibigay ang kanilang larangan, katangian,
-at mga mabuting nagawa.
+## ASSIGNMENTS!!
 
-Due assignments next week:
-MAPEH (Photo below)
+Mga ito po yung mga next week na ipapasa na sinend ko na ibabalik ko lang para mabuo yung mga ipapasa nyu na. 
 
-# HGP
-HGP (Due next wednesday) - Activity 1 Fill the given sentence below
-Sound decision making will help me ___
+# Filipino - Yung pt na isenend ni Jozza
+# TLE - Bring your sewing kit on tuesday.
+       -Needle
+       -Threads
+       -4×4 inch fabric (5pcs of fabric per day)
+       -Pin Cushion
+       -Scissors
+       -Sewing kit
 
-# Activity 2 
-Make a symbol of your strength that you consider to be the most important. Draw it in
-your notebook and explain why
+Ito naman po yung bagong assignments:
+
+# Filipino - Mag isip ng napanood na telenobela na naka sulat sa wikang pilipino at tukuyin ito kung ito ba ay konotatebo o denotatibo.
+
+
+# Science
+1. Draw and label the differents parts of system.
+2. Give the function of each part.
