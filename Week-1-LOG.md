@@ -17,4 +17,4 @@ Ito naman po yung bagong assignments:
 
 
 # Science
- ##1. Draw and label the differents parts of the respiratory system./ 2. Give the function of each part.
+ ## 1. Draw and label the differents parts of the respiratory system./ 2. Give the function of each part.
