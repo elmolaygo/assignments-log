@@ -2,7 +2,7 @@
 
 Mga ito po yung mga next week na ipapasa na sinend ko na ibabalik ko lang para mabuo yung mga ipapasa nyu na. 
 
-# Filipino - Yung pt na isenend ni Jozza
+# Filipino - Yung PT na isenend ni Jozza
 # TLE - Bring your sewing kit on tuesday.
        - Needle
        - Threads
