@@ -9,11 +9,11 @@
 ## TLE - Bring your sewing kit on tuesday.
 
 > - Needle
-> - - Threads
->   - - 4×4 inch fabric (5pcs of fabric per day)
->     - - Pin Cushion
->       - - Scissors
->         - - Sewing kit
+> - Threads
+> - 4×4 inch fabric (5pcs of fabric per day)
+> - Pin Cushion
+> - Scissors
+> - Sewing kit
 
 Ito naman po yung bagong assignments
 
