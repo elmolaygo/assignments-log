@@ -1,13 +1,13 @@
 # ASSIGNMENTS!!
 
-Filipino -Yung pt na isenend ni jozza
-Tle-Bring your sewing kit on tuesday.
-       -Needle
+## Filipino - Yung pt na isenend ni jozza
+## TLE - Bring your sewing kit on tuesday.
+       "-Needle
        -Threads
        -4×4 inch fabric (5pcs of fabric per day)
        -Pin Cushion
        -Scissors
-       -Sewing kit
+       -Sewing kit"
 
 Ito naman po yung bagong assignments
 
