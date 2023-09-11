@@ -28,7 +28,7 @@ Ito naman po yung bagong assignments
 > 1.Bring 1/8 siza index card on monday.
 > 2.Balita (Patungkol sa)
 >> -Politika
->> -Ekonomiya
->> -Showbiz
->> -Sports
->> -Weather updates
+>>> -Ekonomiya
+>>> -Showbiz
+>>> -Sports
+>>> -Weather updates
