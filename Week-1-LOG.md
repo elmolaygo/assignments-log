@@ -23,3 +23,12 @@ Ito naman po yung bagong assignments
 ## Science
 > 1. Draw and label the differents parts of system.
 > 2. Give the function of each part.
+
+## Araling Panlipunan
+> 1.Bring 1/8 siza index card on monday.
+> 2.Balita (Patungkol sa)
+>> -Politika
+>> -Ekonomiya
+>> -Showbiz
+>> -Sports
+>> -Weather updates
